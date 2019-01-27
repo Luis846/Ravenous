@@ -1,2 +1,2 @@
 
-Yelp Clone created using React/JSX/API.
+Yelp Clone created using React/JSX/ yelp API.
